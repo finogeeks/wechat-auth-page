@@ -57,7 +57,7 @@
 
 ### 2. 微信登录配置说明
 * 准备一个微信登录小程序
-* 从[这里](https://github.com/finogeeks/wechat-auth-page))获取授权页面
+* 从本项目中获取授权页面
 * 由于`wx.getPhoneNumber` Api需要服务端解密接口，所以需要自行修改这里的接口
 * 前往微信公众平台上架微信登录小程序（也可集成在已有的微信小程序里）
 * 前往 FinClip 管理后台【小程序管理-我的小程序-第三方管理】进行配置
@@ -65,7 +65,7 @@
 * 上架相关小程序，进行调试
 
 ### 3. 登录流程
-本微信登录功能采用了 [小程序登录常见问题](/faq/app/wechat-login-issue.html) 中的方案三，您需要在您已有微信小程序中进行定义修改，从而使得 FinClip 小程序具备微信登录的能力，具体流程图如下所示。
+本微信登录功能采用了 [小程序登录常见问题](https://www.finclip.com/mop/document/faq/app/wechat-login-issue.html) 中的方案三，您需要在您已有微信小程序中进行定义修改，从而使得 FinClip 小程序具备微信登录的能力，具体流程图如下所示。
 
 ![image.png](https://raw.githubusercontent.com/finogeeks/wechat-auth-page/main/image.png)
 
