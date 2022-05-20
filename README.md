@@ -70,7 +70,9 @@
 ![image.png](https://raw.githubusercontent.com/finogeeks/wechat-auth-page/main/image.png)
 
 ## 📋 集成文档
-[点击这里](https://www.finclip.com/mop/document/introduce/quickStart/intergration-guide.html#_1-ios-%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90) 查看 iOS 快速集成文档
+[点击这里](https://www.finclip.com/mop/document/faq/app/wechat-login-issue.html) 查看小程序登录常见问题
+[点击这里](https://www.finclip.com/mop/document/introduce/functionDescription/wx-login.html) 查看微信登录功能介绍
+
 
 ## 🔗 常用链接
 以下内容是您在 FinClip 进行开发与体验时，常见的问题与指引信息
