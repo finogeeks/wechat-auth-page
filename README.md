@@ -71,6 +71,7 @@
 
 ## 📋 集成文档
 [点击这里](https://www.finclip.com/mop/document/faq/app/wechat-login-issue.html) 查看小程序登录常见问题
+
 [点击这里](https://www.finclip.com/mop/document/introduce/functionDescription/wx-login.html) 查看微信登录功能介绍
 
 
