@@ -65,7 +65,7 @@
 * 上架相关小程序，进行调试
 
 ### 3. 登录流程
-本微信登录功能采用了 [小程序登录常见问题](https://www.finclip.com/mop/document/faq/app/wechat-login-issue.html) 中的方案三，您需要在您已有微信小程序中进行定义修改，从而使得 FinClip 小程序具备微信登录的能力，具体流程图如下所示。
+您需要在您已有微信小程序中添加授权页面（解压 auth.zip），从而使得 FinClip 小程序具备微信登录的能力，具体流程图如下所示。
 
 ![image.png](https://raw.githubusercontent.com/finogeeks/wechat-auth-page/main/image.png)
 
